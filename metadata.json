@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Renamer",
+  "description": "An intelligent tool that uses Gemini to suggest descriptive, SEO-friendly filenames for your images based on their content.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
